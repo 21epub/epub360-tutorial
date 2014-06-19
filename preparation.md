@@ -35,7 +35,7 @@
 
 请在IPad访问网址[http://app.epub360.com](http://app.epub360.com)下载安装APP，或通过IPad扫描二维码安装。
 
-![Epub360 APP](./images/qrcode/epub360-app-qrcode.png)
+![Epub360 APP](./images/epub360_app_qrcode.png)
 
 > **说明:** IPad并非必须，即使手头没有，一样也可以完成学习.
 
