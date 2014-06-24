@@ -41,6 +41,6 @@ Epub360可以应用于各种多媒体类型内容的设计制作，包括：
 ## 如何开始使用
 
 - 首先[注册Epub360](http://www.epub360.com/accounts/register/)，获取自己的用户帐号
-- 阅读本教程，学习使用Epub360制作一本《雷诺汽车》的多媒体APP作品
+- 阅读本教程，学习使用Epub360制作一本《雷诺汽车》的多媒体APP
 - 阅读[Epub360 FAQ](http://www.epub360.com/faq/)，了解自己感兴趣的信息
 - 加入Epub360 QQ群：147962278
