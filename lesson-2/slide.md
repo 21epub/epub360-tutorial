@@ -2,7 +2,7 @@
 
 这里制作几张图片可滑动轮转切换的效果，所需图片在素材包 **第二课／SLIDE** 文件夹内：
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/47df72e9b45dea63a619698c35d1770c.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/47df72e9b45dea63a619698c35d1770c.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 视频总长3m01s，讲解了基本的操作步骤：
 1. 添加SLIDE

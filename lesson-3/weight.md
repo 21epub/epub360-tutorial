@@ -4,7 +4,7 @@
 
 Epub360支持设置重力感应效果，我们在 **第二课/使用Image Sequence** 所完成内容的基础上，尝试使用并查看效果:
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/0bb251eb8a3a30d07a4911933df1f4ed.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/0bb251eb8a3a30d07a4911933df1f4ed.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 关键步骤在于，设置Image Sequence支持“重力感应”:
 

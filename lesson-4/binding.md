@@ -8,7 +8,7 @@ Binding用于关联多个对象，使得其中一个对象的动作，会带动�
 
 完成3个Slide的制作后，观看视频，了解Binding的使用以及效果:
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/84154a98c4f4991270aff58cb365f17d.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/51a8c5934b30aef543cc0f6db4eab626.mp4?avthumb/ipad_high" type="video/mp4"></video>
 
 
 
@@ -19,5 +19,5 @@ Epub360中Binding的应用场景包括：
   不同Layer的长度／宽度不同，Binding后的移动可以形成视差效果
 - **多个Slide/Image Sequence/Layer Slide间**
 
-  可以形成联动效果
+  形成联动效果
 

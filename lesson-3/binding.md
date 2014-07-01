@@ -4,7 +4,7 @@
 
 这里使用素材包 **第三课** 下图片detail.png, 具体操作方法见视频：
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/51b1231d0337c6efca6c6ff6fc16ddc4.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/51b1231d0337c6efca6c6ff6fc16ddc4.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 视频总长2m05s，操作步骤如下：
 

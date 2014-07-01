@@ -3,7 +3,7 @@
 视频播放会与全局背景音乐冲突，在播放视频的时候，有没有办法暂停背景音乐呢？
 
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/1a54be2a3fb90c53647eebf38c946c83.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/1a54be2a3fb90c53647eebf38c946c83.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 
 视频总长1m51s，要点如下：

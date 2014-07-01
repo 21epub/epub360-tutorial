@@ -6,7 +6,7 @@
 
 本节将使用 **第二课/Video** 文件夹中的视频及图片文件，制作可以点击播放视频的交互操作效果。
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/13413f95e45c668d315591a5abaa5039.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/13413f95e45c668d315591a5abaa5039.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 视频总长3m58s，讲解了基本的操作步骤：
 

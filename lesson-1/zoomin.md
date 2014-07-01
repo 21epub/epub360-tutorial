@@ -4,7 +4,7 @@
 
 设置方式请看视频：
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/27cb71d38d70ece484530484a8076dcc.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/27cb71d38d70ece484530484a8076dcc.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 操纵步骤如下：
 

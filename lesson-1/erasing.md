@@ -6,7 +6,7 @@ Epub360支持对图片设置**擦除效果**, 这将提升交互性与趣味性�
 
 操作过程请观看视频:
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/872a10a94bf4661d2d99a727f9c72a15.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/872a10a94bf4661d2d99a727f9c72a15.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 关键步骤在于，设置被擦除图片支持“可擦除”:
 

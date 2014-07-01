@@ -4,7 +4,7 @@ Epub360支持给交互内容设置全局背景音乐，这样，背景音乐将�
 
 使用素材包 **第三课** 文件夹内的music.mp3作为背景音乐，设置方法请见视频：
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/9d7cc1cce3fb71460bd90dba324acb4f.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/9d7cc1cce3fb71460bd90dba324acb4f.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 视频总长1m10s，要点如下：
 

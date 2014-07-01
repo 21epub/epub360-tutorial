@@ -4,7 +4,7 @@
 
 所需图片在 **第二课／序列帧** 文件夹内。
 
-<video width="90%" controls><source src="http://qn.media.epub360.com/materials/video/ddded9bdf2608700c92d681eb1d66aac.mp4?avthumb/ipad_low" type="video/mp4"></video>
+<video width="100%" controls><source src="http://qn.media.epub360.com/materials/video/ddded9bdf2608700c92d681eb1d66aac.mp4?avthumb/ipad_low" type="video/mp4"></video>
 
 > _素材上传在之前一节 **使用SLIDE** 已讲述，这里视频里就忽略了此操作。_
 
