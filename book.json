@@ -20,7 +20,7 @@
         "issues": false,
         "contribute": false,
         "sharing": {
-            "google": null,
+            "google": false,
             "facebook": false,
             "twitter": false
         }
