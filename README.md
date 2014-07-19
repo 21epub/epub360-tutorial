@@ -1,6 +1,7 @@
 Epub360使用教程
 ================
 
+Epub360.com是在线使用的交互内容设计平台，无需编程，可在线设计交互式电子杂志、品牌展示、产品指南、培训课件、交互童书、微网页等互动内容，一次创作，可同时发布到iOS、安卓、桌面及微信。
 
 本教程将分5课，围绕制作汽车主题的交互内容，介绍了Epub360常用功能。整个过程需要30分钟左右。
 
@@ -46,13 +47,25 @@ Epub360使用教程
 
 ### 下载素材包
 
-请下载教程内容相关素材，包括图片、视频、音频等，以备在学习过程中使用。
-
-
-点击下载素材包:** [Epub360-tutorial-package.zip](http://qn.media.epub360.com/materials/zip/a16cb7328259bdba9c0a9893e3cf4562.zip)**
+请下载教程内容相关素材，包括图片、视频、音频等，以备在学习过程中使用:
+- [Windows用户点击下载](http://qn.media.epub360.com/materials/zip/0f066edbee2623a51df26558622a8c51.zip)
+- [Mac用户点击下载](http://qn.media.epub360.com/materials/zip/a16cb7328259bdba9c0a9893e3cf4562.zip)
 
 素材包按课程内容组织，下载解压后其目录结构如下图：
 
 ![素材包目录结构](./images/tutorial-materials.png)
+
+
+### 支持与帮助
+
+在学习使用过程中，如有任何问题，欢迎通过以下方式联系我们：
+
+- Epub360社区论坛:[http://bbs.epub360.com/](http://bbs.epub360.com/)
+- 加入Epub360 QQ群：**147962278**
+- 关注Epub360微信服务号: **epub360** （扫描二维码关注）
+
+![](./images/epub360-wechat-qrcode.png)
+
+
 
 > _现在已准备就绪，赶紧开始吧!_
