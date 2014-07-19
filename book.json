@@ -23,7 +23,7 @@
         }
     },
     "pdf": {
-        "toc": true,
+        "toc": false,
         "pageNumbers": false,
         "fontSize": 12,
         "paperSize": "a4",
