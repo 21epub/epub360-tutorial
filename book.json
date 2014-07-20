@@ -21,17 +21,5 @@
             "facebook": false,
             "twitter": false
         }
-    },
-    "pdf": {
-        "toc": false,
-        "pageNumbers": false,
-        "fontSize": 12,
-        "paperSize": "a4",
-        "margin": {
-            "right": 62,
-            "left": 62,
-            "top": 36,
-            "bottom": 36
-        }
     }
 }
